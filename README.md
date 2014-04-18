@@ -1,36 +1,18 @@
 # minisculus-clj
 
-FIXME: description
+Minisculus challenge entry in clojure.
 
-## Installation
-
-Download from http://example.com/FIXME.
+See: http://minisculuschallenge.com/index.html
 
 ## Usage
 
-FIXME: explanation
+Execute using Leiningen.
 
-    $ java -jar minisculus-clj-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ lein run
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Will Benyon
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
