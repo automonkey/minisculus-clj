@@ -10,6 +10,10 @@ Execute using Leiningen.
 
     $ lein run
 
+Run tests using midje.
+
+    $ lein midje
+
 ## License
 
 Copyright © 2014 Will Benyon
